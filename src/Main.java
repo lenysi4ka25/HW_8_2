@@ -104,6 +104,7 @@ public class Main {
                                     System.out.println(d + " * " + r + " = " + d * r);
                             }
                             System.out.println();
+                            System.out.println("Мне кажется или я всё же поняла в чём моя проблема)))");
                         }
                     }
                 }
